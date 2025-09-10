@@ -1,1 +1,12 @@
-# ChadaevaIA_RIS-25-2b_LabsPSTU_Programming
+# First Project
+## Programming
+
+*Github - best service for projects.*
+
+**Hello World!**
+
+***Bold with cursive***
+
+C**oo**l
+
+~Hmmmmmmm~
