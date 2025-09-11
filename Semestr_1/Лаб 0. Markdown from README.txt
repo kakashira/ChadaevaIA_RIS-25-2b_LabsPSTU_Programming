@@ -1,0 +1,63 @@
+# First Title
+## Second Title
+
+*Cursive*
+
+**Bold**
+
+***Bold with cursive***
+
+C**oo**l
+
+~strikethrough text~
+
+>quote!
+
+>>quote double
+
+
+list:
+1. Bread
+2. Meat
+
+Another list:
+* Cucumbers
+* Tomato
+
+Checkbox:
+- [x] Not cool
+- [ ] Cool
+
+nested list:
+1. first
+   1. another first
+   2. and another
+   3. other
+   4. and other
+   5. and and other
+
+Links:
+<https://pstu.ru/>
+
+[Best university](https://pstu.ru/ "подсказка")
+
+[Univ][url_1]
+
+[url_1]: https://pstu.ru/ "tip"
+
+![сats](https://github.com/user-attachments/assets/ea612901-ef21-4168-88a6-59c7ad866127)
+
+```C
+#include <stdio.h>
+int main () {
+  printf ("hello World!");
+  return 0;
+}
+```
+
+Table:
+|First Column|Second|Third|
+|:------------:|:------|--------:|
+|Another first|Another Second|Another third|
+
+\#hashtag
